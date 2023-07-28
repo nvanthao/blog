@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Gerard Nguyen 🌟"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  mainSections = ["blog"]
+  # description = "My awesome website"
+
+[author]
+  name = "Gerard Nguyen"
+  # image = "img/author.jpg"
+  headline = "Welcome to my blog"
+  bio = "A little bit about you"
+  links = [
+     { github = "https://github.com/nvanthao" },
+  ]
